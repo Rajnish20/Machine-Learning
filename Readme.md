@@ -20,4 +20,7 @@ https://www.superdatascience.com/machine-learning/
 # Hierarchical Clustering
 ## Visualization of dendrogram obtained in Hierarchical_clustering
 ![Dendrogram](https://user-images.githubusercontent.com/38453583/59212229-780b2c00-8bcf-11e9-97cb-6532598ea0e4.png)
+## Output of the program written in python
+![Hierarchical_clustering](https://user-images.githubusercontent.com/38453583/59212401-ef40c000-8bcf-11e9-95ee-845b7aa29cab.png)
+
 
