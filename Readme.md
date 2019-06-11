@@ -12,6 +12,11 @@ https://www.superdatascience.com/machine-learning/
 ## Visualization for polynomial regression
 ![Poly](https://user-images.githubusercontent.com/38453583/56517231-095c0b80-655a-11e9-9b4e-8e416b8b700d.png)
 
+# Support Vector Regression
+## Visualization for SVR
+![SVR](https://user-images.githubusercontent.com/38453583/59288122-ab61bf80-8c90-11e9-8d64-7a965e714c4e.png)
+
+
 
 # K-Means Clustering 
 ## Output of the program written in python 
