@@ -16,6 +16,11 @@ https://www.superdatascience.com/machine-learning/
 ## Visualization for SVR
 ![SVR](https://user-images.githubusercontent.com/38453583/59288122-ab61bf80-8c90-11e9-8d64-7a965e714c4e.png)
 
+# Decision Tree Regression
+## Visualization
+![decision_tree_regression](https://user-images.githubusercontent.com/38453583/59453768-3a580e80-8e2e-11e9-8f9b-a755e7226ebb.png)
+
+
 
 
 # K-Means Clustering 
