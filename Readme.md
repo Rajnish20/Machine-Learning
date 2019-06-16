@@ -24,6 +24,12 @@ https://www.superdatascience.com/machine-learning/
 ## Visualization
 ![Randon_Forest](https://user-images.githubusercontent.com/38453583/59522320-ffb4ab80-8eeb-11e9-8fc2-06f76f18df16.png)
 
+# Classification
+## Logistic Regression Classification
+### Visualization For Training Set
+![Logistic_regression_classification(training set)](https://user-images.githubusercontent.com/38453583/59560710-f33b6a80-9033-11e9-885f-3c070c8aa826.png)
+
+
 
 
 
