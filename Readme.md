@@ -30,6 +30,10 @@ https://www.superdatascience.com/machine-learning/
 ![Logistic_regression_classification(training set)](https://user-images.githubusercontent.com/38453583/59560710-f33b6a80-9033-11e9-885f-3c070c8aa826.png)
 ### Visualization For Test Set
 ![Logistic_regression_classification(test set)](https://user-images.githubusercontent.com/38453583/59560772-d2274980-9034-11e9-8a95-780863d0bc63.png)
+## K-NN
+### Visualization for Training Set
+![K-NN(Training Set)](https://user-images.githubusercontent.com/38453583/59785948-be553f00-92e3-11e9-8a8f-235570ef27c9.png)
+
 
 
 
