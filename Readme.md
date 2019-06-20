@@ -36,6 +36,11 @@ https://www.superdatascience.com/machine-learning/
 ### Visualization For Test Set
 ![K-NN(Test Set)](https://user-images.githubusercontent.com/38453583/59785949-be553f00-92e3-11e9-8802-a12d822ca482.png)
 
+## SVM Classification
+### Visualization for Training Set
+![SVM_classifier(Training Set)](https://user-images.githubusercontent.com/38453583/59864343-3b47ed80-93a4-11e9-8546-2e39ee6911a6.png)
+
+
 
 
 
