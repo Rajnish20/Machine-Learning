@@ -39,6 +39,9 @@ https://www.superdatascience.com/machine-learning/
 ## SVM Classification
 ### Visualization for Training Set
 ![SVM_classifier(Training Set)](https://user-images.githubusercontent.com/38453583/59864343-3b47ed80-93a4-11e9-8546-2e39ee6911a6.png)
+### Visualization for Test Set
+![SVM_classifier(Test Set)](https://user-images.githubusercontent.com/38453583/59864539-a09bde80-93a4-11e9-826a-6d237d6a2406.png)
+
 
 
 
