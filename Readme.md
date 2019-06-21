@@ -42,6 +42,11 @@ https://www.superdatascience.com/machine-learning/
 ### Visualization for Test Set
 ![SVM_classifier(Test Set)](https://user-images.githubusercontent.com/38453583/59864539-a09bde80-93a4-11e9-826a-6d237d6a2406.png)
 
+## Naive Bayes Classification
+### Visualization for Training Set
+![Naive_Bayes_Classification(Training Set)](https://user-images.githubusercontent.com/38453583/59935808-423a3300-946c-11e9-981e-ea1c5bcae012.png)
+
+
 
 
 
