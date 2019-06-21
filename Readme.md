@@ -45,6 +45,9 @@ https://www.superdatascience.com/machine-learning/
 ## Naive Bayes Classification
 ### Visualization for Training Set
 ![Naive_Bayes_Classification(Training Set)](https://user-images.githubusercontent.com/38453583/59935808-423a3300-946c-11e9-981e-ea1c5bcae012.png)
+### Visualization for Test Set
+![Naive_Bayes_Classification(Test Set)](https://user-images.githubusercontent.com/38453583/59935976-9218fa00-946c-11e9-959c-ca4855274a20.png)
+
 
 
 
