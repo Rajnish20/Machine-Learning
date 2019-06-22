@@ -48,6 +48,11 @@ https://www.superdatascience.com/machine-learning/
 ### Visualization for Test Set
 ![Naive_Bayes_Classification(Test Set)](https://user-images.githubusercontent.com/38453583/59935976-9218fa00-946c-11e9-959c-ca4855274a20.png)
 
+## Decision Tree Classification
+### Visualization for Training Set
+![Decision_tree_classification(Training set)](https://user-images.githubusercontent.com/38453583/59965980-11710100-9533-11e9-9072-3c297d599d16.png)
+
+
 
 
 
