@@ -51,6 +51,8 @@ https://www.superdatascience.com/machine-learning/
 ## Decision Tree Classification
 ### Visualization for Training Set
 ![Decision_tree_classification(Training set)](https://user-images.githubusercontent.com/38453583/59965980-11710100-9533-11e9-9072-3c297d599d16.png)
+### Visualization for Test Set
+![Decision_tree_classification(Test set)](https://user-images.githubusercontent.com/38453583/59966012-7a587900-9533-11e9-8c8e-368dad945780.png)
 
 
 
