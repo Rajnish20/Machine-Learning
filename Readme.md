@@ -54,6 +54,11 @@ https://www.superdatascience.com/machine-learning/
 ### Visualization for Test Set
 ![Decision_tree_classification(Test set)](https://user-images.githubusercontent.com/38453583/59966012-7a587900-9533-11e9-8c8e-368dad945780.png)
 
+## Random Forest Classification
+### Visualization for Training Set
+![Random_forest_Classifier(Training Set)](https://user-images.githubusercontent.com/38453583/59979187-f6b98d80-9601-11e9-81c0-af59f9e63abc.png)
+
+
 
 
 
