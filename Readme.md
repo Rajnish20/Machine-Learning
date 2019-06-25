@@ -73,10 +73,10 @@ https://www.superdatascience.com/machine-learning/
 
 
 
-
-
-# K-Means Clustering 
-## Output of the program written in python 
+ 
+# Clustering Algorithms
+## K-Means Clustering 
+### Output of the program written in python 
 ![k_means_clustering](https://user-images.githubusercontent.com/38453583/58977126-aca17100-87e6-11e9-9e75-e8f90417b349.png)
 
 # Hierarchical Clustering
