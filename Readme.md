@@ -59,7 +59,8 @@ https://www.superdatascience.com/machine-learning/
 ![Random_forest_Classifier(Training Set)](https://user-images.githubusercontent.com/38453583/59979187-f6b98d80-9601-11e9-81c0-af59f9e63abc.png)
 ### Visualization for Test Set
 ![Random_forest_Classifier(Test Set)](https://user-images.githubusercontent.com/38453583/59979210-341e1b00-9602-11e9-8bdd-76cd1c2493af.png)
-
+# XGBoost 
+This algorithm can be used to solve machine learning classification problem as well as regression problem. This Algorithm is different from other known algorithm because it is the fastest algorithm and gives quite good accuracy.
 
 
 
